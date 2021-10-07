@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @dedenny
+- I am a registered dietitian and learning more about tech to eventually transition into tech and SWE
 - 👀 I’m interested in ...SWE, python, nutrition, software development, R
 - 🌱 I’m currently learning ...python and studying computer science at Oregon State University
 - 📫 How to reach me ...https://www.linkedin.com/in/deanna-denny/
