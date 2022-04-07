@@ -2,6 +2,7 @@
 - I am a registered dietitian and learning more about tech to eventually transition into tech and SWE
 - 👀 I’m interested in ...SWE, python, nutrition, software development, R
 - 🌱 I’m currently learning ...python, web development, databases and studying computer science at Oregon State University
+- If you would like to see more of my repo that are private contact me directly.
 - 📫 How to reach me ...https://www.linkedin.com/in/deanna-denny/
 
 <!---
